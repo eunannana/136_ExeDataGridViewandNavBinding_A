@@ -28,5 +28,11 @@ namespace ExeDataGridViewNavBinding
             new Form3().ShowDialog();
             this.Hide();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            new Form3().ShowDialog();
+            this.Hide();
+        }
     }
 }
