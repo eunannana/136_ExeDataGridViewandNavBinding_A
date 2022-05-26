@@ -34,5 +34,11 @@ namespace ExeDataGridViewNavBinding
             new Form3().ShowDialog();
             this.Hide();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            new Form5().ShowDialog();
+            this.Hide();
+        }
     }
 }

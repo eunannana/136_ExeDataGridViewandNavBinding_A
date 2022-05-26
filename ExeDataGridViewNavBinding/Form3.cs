@@ -32,13 +32,13 @@ namespace ExeDataGridViewNavBinding
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            Form4 detail = new Form4();
-            detail.textBox1.Text = this.dataGridView1.CurrentRow.Cells[0].Value.ToString();
-            detail.textBox2.Text = this.dataGridView1.CurrentRow.Cells[1].Value.ToString();
-            detail.textBox3.Text = this.dataGridView1.CurrentRow.Cells[2].Value.ToString();
-            detail.textBox4.Text = this.dataGridView1.CurrentRow.Cells[3].Value.ToString();
-            detail.textBox5.Text = this.dataGridView1.CurrentRow.Cells[4].Value.ToString();
-            detail.ShowDialog();
+            Form4 Form4 = new Form4();
+            Form4.label6.Text = this.dataGridView1.CurrentRow.Cells[0].Value.ToString();
+            Form4.label7.Text = this.dataGridView1.CurrentRow.Cells[1].Value.ToString();
+            Form4.label8.Text = this.dataGridView1.CurrentRow.Cells[2].Value.ToString();
+            Form4.label9.Text = this.dataGridView1.CurrentRow.Cells[3].Value.ToString();
+            Form4.label10.Text = this.dataGridView1.CurrentRow.Cells[4].Value.ToString();
+            Form4.ShowDialog();
         }
     }
 }
