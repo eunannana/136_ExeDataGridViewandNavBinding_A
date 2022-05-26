@@ -185,6 +185,7 @@
             this.ClientSize = new System.Drawing.Size(428, 394);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.groupBox1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form4";
             this.Text = "FormDataGrid";
             this.Load += new System.EventHandler(this.Form4_Load);

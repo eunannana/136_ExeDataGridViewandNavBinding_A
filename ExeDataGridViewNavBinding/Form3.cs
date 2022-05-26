@@ -40,5 +40,10 @@ namespace ExeDataGridViewNavBinding
             Form4.label10.Text = this.dataGridView1.CurrentRow.Cells[4].Value.ToString();
             Form4.ShowDialog();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
