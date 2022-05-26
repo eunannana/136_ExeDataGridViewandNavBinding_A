@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <metadata name="mahasiswaBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>201, 17</value>
+    <value>182, 7</value>
   </metadata>
   <metadata name="prodiTIDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
@@ -1608,7 +1608,7 @@
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EgAACxIB0t1+/AAAL71JREFUeF7t3Ql0XFed53GqtK/WvkvWvlqLrdWydkuWLO/KQhJnsRlCgBiykNBA
+        EQAACxEBf2RfkQAAL71JREFUeF7t3Ql0XFed53GqtK/WvkvWvlqLrdWydkuWLO/KQhJnsRlCgBiykNBA
         byGQIQmQBBq6T6AZlkz3nG4aEggQyCRNZwJ0WBoGAsPeNKE5rAk0S5OFuEbPudUxzrX1qur/Xr377vdz
         zu9wIKqnq9Sjfj9rsZ4HAEAqcnLzGlo7e68bHNvxkenFPT+eXFh9ZGB48s7m9u7XZGVnl6s3C4xoNJrT
         0Nx2+Zat4387Mb/yrdnlfY9tm5i+v72n/6ai4pIh9WaBUlFdt797y7a/Gp3a+fm55YO/cv7T+e/O/67e
